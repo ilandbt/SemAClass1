@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Class1</string>
+    <string name="show_button">Show</string>
+    <string name="input_hint">What\'s up?</string>
+</resources>
